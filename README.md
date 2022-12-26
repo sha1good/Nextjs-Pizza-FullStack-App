@@ -1,4 +1,4 @@
-# Pizz Resturant App
+# Pizza Resturant App
 # This App was built with Nextjs, Nodejs,Mongo DB and Paypal Checkout
 
 # The Images are also uploaded to cloudinary
