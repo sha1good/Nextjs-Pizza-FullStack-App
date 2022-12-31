@@ -1,5 +1,5 @@
 # Pizza Resturant App
-# This App was built with Nextjs, Nodejs,Mongo DB and Paypal Checkout
+# This App was built with Nextjs, React Redux, Nodejs,Mongo DB and Paypal Checkout
 
 # The Images are also uploaded to cloudinary
 
